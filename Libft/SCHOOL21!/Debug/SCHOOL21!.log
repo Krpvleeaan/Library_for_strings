@@ -1,0 +1,11 @@
+﻿  SCHOOL21!.cpp
+C:\Users\User\source\repos\SCHOOL21!\SCHOOL21!\SCHOOL21!.cpp(56,2): error C4996: 'write': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _write. See online help for details.
+C:\Users\User\source\repos\SCHOOL21!\SCHOOL21!\SCHOOL21!.cpp(108,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\SCHOOL21!\SCHOOL21!\SCHOOL21!.cpp(137,14): warning C4090: return: разные квалификаторы "const"
+C:\Users\User\source\repos\SCHOOL21!\SCHOOL21!\SCHOOL21!.cpp(151,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\SCHOOL21!\SCHOOL21!\SCHOOL21!.cpp(156,15): warning C4047: =: "char" отличается по уровням косвенного обращения от "char [2]"
+C:\Users\User\source\repos\SCHOOL21!\SCHOOL21!\SCHOOL21!.cpp(169,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\SCHOOL21!\SCHOOL21!\SCHOOL21!.cpp(175,15): warning C4047: =: "char" отличается по уровням косвенного обращения от "char [2]"
+C:\Users\User\source\repos\SCHOOL21!\SCHOOL21!\SCHOOL21!.cpp(183,14): warning C4090: return: разные квалификаторы "const"
+C:\Users\User\source\repos\SCHOOL21!\SCHOOL21!\SCHOOL21!.cpp(205,12): warning C4090: return: разные квалификаторы "const"
+C:\Users\User\source\repos\SCHOOL21!\SCHOOL21!\SCHOOL21!.cpp(212,13): warning C4018: <: несоответствие типов со знаком и без знака
